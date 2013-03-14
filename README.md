@@ -3,6 +3,11 @@ node-miniredis
 
 A tiny redis client in node.js!
 
+Inspired on:
+    https://github.com/stulentsev/miniredis-ruby
+and
+    https://github.com/eternicode/miniredis-python
+
 ### Usage
 
 You'll need to execute node with the flag --harmony. The client depends on new
