@@ -1,0 +1,26 @@
+{
+  "name": "node-miniredis",
+  "version": "0.0.1",
+  "description": "A tiny redis client.",
+  "main": "lib/miniredis.js",
+  "scripts": {
+    "test": "mocha --harmony spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eveiga/node-miniredis.git"
+  },
+  "dependencies": {
+    "hiredis": "~0.1.15"
+  },
+  "devDependencies": {
+    "mocha": "1.8.1"
+  },
+  "keywords": [
+    "redis",
+    "mini",
+    "client"
+  ],
+  "author": "Edgar Veiga",
+  "license": "MIT"
+}
