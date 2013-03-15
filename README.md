@@ -1,7 +1,7 @@
 node-miniredis
 ==============
 
-A tiny redis client in node.js (~56 LOCS)!
+A tiny redis client in node.js (42 LOCS)!
 This is just a proof of concept regarding the use of the Proxy object on node.js.
 The main goal was to get rid of the redis commands file and use a more dynamical
 approach.
